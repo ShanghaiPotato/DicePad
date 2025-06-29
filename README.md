@@ -1,3 +1,3 @@
-Description: A hackpad in the shape of a d4. Each side has a button that can be programmed to a specific task. The goal is to make it wireless so you can roll the hackpad and it will activate depending on which side you land on. \
+Description: A hackpad that has 6 buttons for the 6 commonly used dice in Dungeons and Dragons. There is the d4, d6, d8, d10, d12, and d20 (nobody uses the percentile die). It is just a basic hackpad with more buttons and a little extra design. 
 
-Inspiration: Dungeons and Dragons is a game that I love, and the idea of rolling a dice and causing something to happen sounds incredibly fun. 
+Inspiration: Dungeons and Dragons is a game that I love, and being able to roll dice using a macropad sounds really fun and interesting. 
