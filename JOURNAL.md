@@ -1,3 +1,5 @@
+Total Time: 7 hrs
+
 June 26th, Log 1
 Start: 10:00 pm
 End: 11:00 pm
@@ -33,9 +35,9 @@ It will probably have the LED's light up depending on the roll, if it is higher 
 
 June 29th, Log 3
 Start: 10:00 pm
-End: 9:00 pm
-Session Time:  hrs
-Total Time: 5 hrs
+End: 12:00 pm
+Session Time: 2 hrs
+Total Time: 7 hrs
 
 Today was mostly a organize everything and make sure I have everything. I did some more research into keymapping with QMK and KMK, and I'll probably do KMK. It just seems a lot simpler for what I am doing. I've uploaded everthing to the repository, so I should be good for the most part. I finished the CAD yesterday, I just forgot to mention it, and I got the gerbers for the PCB. I just need to finish the README before I can submit and ship this project.
 
