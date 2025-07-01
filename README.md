@@ -4,19 +4,19 @@ Inspiration: Dungeons and Dragons is a game that I love, and being able to roll 
 
 PCB:
 Schematics - 
-![alt text](DicePadV1Schematic.png)
+![Getting Started](./images/DicePadV1Schematic.png)
 
 PCB - 
-![alt text](DicePadV1PCB.png)
+![Getting Started](./images/DicePadV1PCB.png)
 
 PCB Render - 
-![alt text](DicePadPCBRender.png)
+![Getting Started](./images/DicePadPCBRender.png)
 
 CAD: 
 I used OnShape to create the case, it is something that is reall basic, but I plan on upgrading the case later depending on how all the parts come together.
 
 Case - 
-![alt text](DicePadV1CAD.png)
+![Getting Started](./images/DicePadV1CAD.png)
 
 Firmware: 
 I'm not that big of a programmer, so I chose KMK because I have some experience in python and it is much simpler to use.
